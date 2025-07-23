@@ -109,13 +109,12 @@ You can pull any combination of columns by simply typing their header names in R
 
 ## 🌐 Connect with Me
 
-📺 [YouTube](https://www.youtube.com/@eslamhub)  
-📱 [TikTok](https://www.tiktok.com/@eslamhub)  
-💼 [LinkedIn](https://www.linkedin.com/in/eslamhub)  
-🐦 [X](https://x.com/eslamhub)  
-📘 [Facebook](https://www.facebook.com/eslamhub1)  
-📸 [Instagram](https://www.instagram.com/eslam.hub)  
-📞 WhatsApp: +21550550410
+📺 [YouTube](https://www.youtube.com/@eslamhub)
+📱 [TikTok](https://www.tiktok.com/@eslamhub)
+💼 [LinkedIn](https://www.linkedin.com/in/eslamhub)
+🐦 [X](https://x.com/eslamhub)
+📘 [Facebook](https://www.facebook.com/eslamhub1)
+📸 [Instagram](https://www.instagram.com/eslam.hub)
 
 ---
 
